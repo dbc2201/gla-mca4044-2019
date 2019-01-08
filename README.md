@@ -11,4 +11,5 @@ Resource Links -
 2. IDE - Android Studio IDE - https://developer.android.com/studio/#downloads
 3. VCS - Git - https://git-scm.com/downloads
 
+Link to acquire a JetBrains student license - https://www.jetbrains.com/shop/eform/students
 ___
