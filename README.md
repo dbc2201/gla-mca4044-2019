@@ -13,3 +13,6 @@ Resource Links -
 
 Link to acquire a JetBrains student license - https://www.jetbrains.com/shop/eform/students
 ___
+
+Books for this course
+
