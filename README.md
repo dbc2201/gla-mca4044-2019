@@ -32,3 +32,9 @@ ___
 3. Git Video Tutorial - https://www.youtube.com/watch?v=r63f51ce84A&t=766s
 4. How to use Git & GitHub via Udacity - https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p
 5. Git eBook - https://git-scm.com/book/en/v2
+
+___
+
+## Classroom Projects
+
+1. January 10 2019 - "Hello, World!" App - https://github.com/dbc2201/MyResume
