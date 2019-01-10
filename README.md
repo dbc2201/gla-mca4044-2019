@@ -38,3 +38,9 @@ ___
 ## Classroom Projects
 
 1. January 10 2019 - "Hello, World!" App - https://github.com/dbc2201/MyResume
+
+___
+
+## Tasks
+
+1. [Task 1](https://github.com/dbc2201/gla-mca4044-2019/blob/master/tasks/Task1_January_10_2019.md) January 10 2019. Deadline - January 13, 2019. 
