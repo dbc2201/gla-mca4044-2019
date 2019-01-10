@@ -19,7 +19,7 @@ The following is a To-Do list that you need to complete, in order to complete th
 
    2. After installing Git on your computer, open "command prompt"
 
-      ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss1.png)
+      ![](../images/ss1.png)
 
    3. Type the following commands
 
@@ -27,13 +27,13 @@ The following is a To-Do list that you need to complete, in order to complete th
          git config --global user.name "<Your Username on GitHub>"
          ```
 
-      2. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss2.png)
+      2. ![](../images/ss2.png)
 
       3. ```
          git config --global user.mail "<Your GLA email Address>"
          ```
 
-      4. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss3.png)
+      4. ![](../images/ss3.png)
 
 3. Download and install Android Studio on your laptop.
 
@@ -45,34 +45,34 @@ The following is a To-Do list that you need to complete, in order to complete th
 
    4. After installing the Android Studio will look like
 
-      ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss4.png)
+      ![](../images/ss4.png)
 
    5. Click on "Configure" option in the bottom right hand side.
 
-      ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss5.png)
+      ![](../images/ss5.png)
 
    6. Click on the latest version of Android and press "Apply" and then "Ok". Android Studio will start downloading the SDK for you.
 
-      ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss6.png)
+      ![](../images/ss6.png)
 
 4. Turn on "Developer Options" on your Android mobile phone.
 
-   1. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss7.png)
+   ![](../images/ss7.png)
 
 5. Create a simple "Hello, World!" app.
 
-   1. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss8.png)
-   2. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss9.png)
-   3. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss10.png)
-   4. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss11.png)
-   5. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss12.png)
+   1. ![](../images/ss8.png)
+   2. ![](../images/ss9.png)
+   3. ![](../images/ss10.png)
+   4. ![](../images/ss11.png)
+   5. ![](../images/ss12.png)
    6. This is how your Android Studio will look like after the project is loaded.
-   7. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss13.png)
+   7. ![](../images/ss13.png)
 
 6. Install the app on your phone.
 
    1. Connect your Android Device via a USB cable and press "Alt+Shift+F10".
-   2. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss14.png)
+   2. ![](../images/ss14.png)
    3. Now press "OK" and the app will be installed on your phone.
 
 7. Upload the project to GitHub.
@@ -91,7 +91,7 @@ The following is a To-Do list that you need to complete, in order to complete th
       2. Import into version control
       3. Share Project on GitHub
       4. Android Studio will ask you for your GitHub username and password, fill it in.
-      5. ![](/home/divyansh/IdeaProjects/gla-mca4044-2019/images/ss15.png)
+      5. ![](../images/ss15.png)
       6. Fill in the values for the Repository name and description, then click ok.
 
 8. Send me the link of your uploaded project.
