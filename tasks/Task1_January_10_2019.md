@@ -30,7 +30,7 @@ The following is a To-Do list that you need to complete, in order to complete th
       2. ![](../images/ss2.png)
 
       3. ```
-         git config --global user.mail "<Your GLA email Address>"
+         git config --global user.email "<Your GLA email Address>"
          ```
 
       4. ![](../images/ss3.png)
