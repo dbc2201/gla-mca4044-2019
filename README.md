@@ -42,3 +42,9 @@ ___
 
 1. [Task 1](https://github.com/dbc2201/gla-mca4044-2019/blob/master/tasks/Task1_January_10_2019.md) January 10 2019. Deadline - January 13, 2019.
 2. [Task 2](https://github.com/dbc2201/MCA4044_EmailLoginStub) January14 2019, Deadline - January 17, 2019.
+
+___
+
+## Assignments
+
+1. [Assignment 1](https://github.com/dbc2201/gla-mca4044-2019/blob/master/assignments/assignment1.md)
