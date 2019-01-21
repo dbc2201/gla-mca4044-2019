@@ -55,13 +55,3 @@ The naming convention of resources we follow is -
 2. https://en.wikipedia.org/wiki/Data_Encryption_Standard
 3. https://en.wikipedia.org/wiki/Encryption
 4. http://practicalcryptography.com/ciphers/caesar-cipher/
-
-Today's lecture (January 21, 2019) has been uploaded on YouTube - https://youtu.be/emxI5StZRYo
-
-MCA4044 - Mobile Application Development 21 January 2019
-Topics discussed
-
-1. Android Layouts - LinearLayout (Vertical)
-2. Simple Calculator App
-3. Assignment 1
-   You can find the MainActivity.java code here - https://gist.github.com/dbc2201/acaa3b90131a2784ed7a462daef64124
