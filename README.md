@@ -48,3 +48,9 @@ ___
 ## Assignments
 
 1. [Assignment 1](https://github.com/dbc2201/gla-mca4044-2019/blob/master/assignments/assignment1.md)
+
+___
+
+## Practice Questions
+
+[Mid Sem 1](https://github.com/dbc2201/gla-mca4044-2019/blob/master/practice/questions/mid_sem1.md)
