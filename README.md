@@ -54,3 +54,9 @@ ___
 ## Practice Questions
 
 [Mid Sem 1](https://github.com/dbc2201/gla-mca4044-2019/blob/master/practice/questions/mid_sem1.md)
+
+___
+
+## Exams
+
+1. [Mid Sem 1](https://github.com/dbc2201/gla-mca4044-2019/blob/master/exams/mid_sem1/mid_sem1.md)
