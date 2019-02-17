@@ -65,7 +65,7 @@ ___
 
 ## Lectures
 
-1. [Activity States and Live Cycles](https://github.com/dbc2201/gla-mca4044-2019/blob/master/lectures/activityStatesAndLifeCycles.md)
+1. [Activity States and Life Cycles](https://github.com/dbc2201/gla-mca4044-2019/blob/master/lectures/activityStatesAndLifeCycles.md)
 ___
 
 ## Inspirational
