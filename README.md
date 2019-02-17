@@ -60,3 +60,9 @@ ___
 ## Exams
 
 1. [Mid Sem 1](https://github.com/dbc2201/gla-mca4044-2019/blob/master/exams/mid_sem1/mid_sem1.md)
+
+___
+
+## Inspirational
+
+1. [The mind behind Linux | Linus Torvalds, YouTube](https://www.youtube.com/watch?v=o8NPllzkFhE)
