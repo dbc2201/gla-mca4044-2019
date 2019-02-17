@@ -63,6 +63,11 @@ ___
 
 ___
 
+## Lectures
+
+1. [Activity States and Live Cycles]()
+___
+
 ## Inspirational
 
 1. [The mind behind Linux | Linus Torvalds, YouTube](https://www.youtube.com/watch?v=o8NPllzkFhE)
