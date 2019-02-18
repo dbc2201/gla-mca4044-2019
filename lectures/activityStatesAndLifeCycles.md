@@ -18,7 +18,8 @@ There are basically the following states on any 'Activity' in Android -
 
 ## Sample code for the activity callback methods
 
-```javapublic class MainActivity extends AppCompatActivity {
+```java
+public class MainActivity extends AppCompatActivity {
        
            private static final String TAG = "MainActivity";
            
