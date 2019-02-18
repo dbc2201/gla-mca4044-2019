@@ -16,4 +16,42 @@ There are basically the following states on any 'Activity' in Android -
 6. [onStop](https://developer.android.com/reference/android/app/Activity#onStop())  
 7. [onDestroy](https://developer.android.com/reference/android/app/Activity#onDestroy())  
 
+## Sample code for the activity callback methods
+
+```java
+@Override
+    protected void onStart() {
+        super.onStart();
+        Toast.makeText(LoginActivity.this, "onStart", Toast.LENGTH_LONG).show();
+        Log.i("MainActivity:onStart", "onStart called");
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        Toast.makeText(LoginActivity.this, "onResume", Toast.LENGTH_SHORT).show();
+        Log.i("MainActivity:onResume", "onResume called");
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        Toast.makeText(LoginActivity.this, "onPause", Toast.LENGTH_SHORT).show();
+        Log.i("MainActivity:onPause", "onPause called");
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        Toast.makeText(LoginActivity.this, "onStop", Toast.LENGTH_SHORT).show();
+        Log.i("MainActivity:onStop", "onStop called");
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Toast.makeText(LoginActivity.this, "onDestroy", Toast.LENGTH_SHORT).show();
+        Log.i("MainActivity:onDestroy", "onDestroy called");
+    }
+```
 ___
