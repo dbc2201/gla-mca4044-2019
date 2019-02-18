@@ -18,40 +18,51 @@ There are basically the following states on any 'Activity' in Android -
 
 ## Sample code for the activity callback methods
 
-```java
-@Override
-    protected void onStart() {
-        super.onStart();
-        Toast.makeText(LoginActivity.this, "onStart", Toast.LENGTH_LONG).show();
-        Log.i("MainActivity:onStart", "onStart called");
-    }
-
-    @Override
-    protected void onResume() {
-        super.onResume();
-        Toast.makeText(LoginActivity.this, "onResume", Toast.LENGTH_SHORT).show();
-        Log.i("MainActivity:onResume", "onResume called");
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
-        Toast.makeText(LoginActivity.this, "onPause", Toast.LENGTH_SHORT).show();
-        Log.i("MainActivity:onPause", "onPause called");
-    }
-
-    @Override
-    protected void onStop() {
-        super.onStop();
-        Toast.makeText(LoginActivity.this, "onStop", Toast.LENGTH_SHORT).show();
-        Log.i("MainActivity:onStop", "onStop called");
-    }
-
-    @Override
-    protected void onDestroy() {
-        super.onDestroy();
-        Toast.makeText(LoginActivity.this, "onDestroy", Toast.LENGTH_SHORT).show();
-        Log.i("MainActivity:onDestroy", "onDestroy called");
-    }
+```javapublic class MainActivity extends AppCompatActivity {
+       
+           private static final String TAG = "MainActivity";
+           
+           @Override
+           protected void onCreate(Bundle savedInstanceState) {
+               super.onCreate(savedInstanceState);
+               setContentView(R.layout.activity_main);
+               Log.e("MainActivity:onCreate", "called");
+           }
+           
+           @Override
+           protected void onStart() {
+               super.onStart();
+               Toast.makeText(MainActivity.this, "onStart", Toast.LENGTH_SHORT).show();
+               Log.e("MainActivity:onStart", "called");
+           }
+       
+           @Override
+           protected void onResume() {
+               super.onResume();
+               Toast.makeText(MainActivity.this, "onResume", Toast.LENGTH_SHORT).show();
+               Log.e(TAG, "onResume: called");
+           }
+       
+           @Override
+           protected void onPause() {
+               super.onPause();
+               Toast.makeText(this, "onPause", Toast.LENGTH_SHORT).show();
+               Log.e(TAG, "onPause: called");
+           }
+       
+           @Override
+           protected void onStop() {
+               super.onStop();
+               Toast.makeText(this, "onStop", Toast.LENGTH_SHORT).show();
+               Log.e(TAG, "onStop: called");
+           }
+       
+           @Override
+           protected void onDestroy() {
+               super.onDestroy();
+               Toast.makeText(this, "onDestroy", Toast.LENGTH_SHORT).show();
+               Log.e(TAG, "onDestroy: called");
+           }
+       }
 ```
 ___
