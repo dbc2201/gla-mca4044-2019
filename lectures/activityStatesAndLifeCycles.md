@@ -67,3 +67,8 @@ public class MainActivity extends AppCompatActivity {
        }
 ```
 ___
+
+## Video by Google
+
+1. [Activity Lifecycle and Saving State (Android Development Fundamentals, Unit 1: Lesson 2.2)](https://www.youtube.com/watch?v=5b2r3Z5UcHU&list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB&index=13&t=0s)  
+2. [Activity Lifecycle and Saving State DEMO (Android Development Fundamentals, Unit 1: Lesson 2.2)](https://www.youtube.com/watch?v=N4LLOaUdUMQ&list=PLlyCyjh2pUe9wv-hU4my-Nen_SvXIzxGB&index=14&t=0s)  
