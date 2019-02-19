@@ -66,3 +66,30 @@
 |   62   |       188429058        | VIVEK SENGAR           | ANIL KUMAR               |    A    |       7        |
 |   63   |       188429059        | ISHNEET SINGH SARNA    | AMARJEET SINGH SARNA     |    A    | <mark>5</mark> |
 
+## Students with marks < 7
+
+1. Akash
+2. Vijay Pal Singh
+3. Abhishek Singh
+4. Alok Kumar Pandey
+5. Amit
+6. Amit Kumar
+7. Anubhav Bansal
+8. Bhupendra Kumar Sharma
+9. Bittu Kumar Mandal
+10. Chhail Bihari
+11. Dheeraj Gautam
+12. Gagan Kumar Bansal
+13. Hemant Malhotra
+14. Kamal Singh Tomar
+15. Kishor Chaturvedi
+16. Pragati Prabha
+17. Rahul Gautam
+18. Sachin Rana
+19. Shahrukh Khan
+20. Shivam Kumar Bhardwag
+21. Shubham Verma
+22. Sunny Kumar
+23. Udit Kumar
+24. Vikrant Gupta
+25. Ishneet Singh Sarna
