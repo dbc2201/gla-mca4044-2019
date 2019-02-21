@@ -87,7 +87,7 @@
 17. Rahul Gautam
 18. Sachin Rana
 19. Shahrukh Khan
-20. Shivam Kumar Bhardwag
+20. Naveen Kumar
 21. Shubham Verma
 22. Sunny Kumar
 23. Udit Kumar
